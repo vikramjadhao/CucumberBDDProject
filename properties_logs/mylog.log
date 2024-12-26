@@ -1,0 +1,186 @@
+[INFO ] 2024-12-24 20:46:08.907 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:46:08.946 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:46:10.208 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:46:10.483 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:46:10.642 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:46:10.661 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:46:11.019 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-24 20:46:11.034 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:46:11.356 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:46:11.358 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:58:44.390 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:58:44.427 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:58:46.865 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:58:47.176 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:58:47.352 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:58:47.376 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:47.586 [main] StepDef - user clicked on dropdown
+[INFO ] 2024-12-24 20:58:47.848 [main] StepDef - user selected the high to low filter option
+[INFO ] 2024-12-24 20:58:47.963 [main] StepDef - user added jacket on cart
+[INFO ] 2024-12-24 20:58:48.124 [main] StepDef - user click on cart
+[WARN ] 2024-12-24 20:58:48.156 [main] StepDef - jacket has been added to cart
+[INFO ] 2024-12-24 20:58:48.420 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:58:48.421 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:58:49.312 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:58:49.314 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:58:49.975 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:58:50.269 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:58:50.428 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:58:50.451 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:50.543 [main] StepDef - user added backpack to the cart
+[INFO ] 2024-12-24 20:58:50.644 [main] StepDef - user added tshirt to the cart
+[INFO ] 2024-12-24 20:58:50.750 [main] StepDef - user added bike light to the cart
+[INFO ] 2024-12-24 20:58:50.841 [main] StepDef - user removed bike light to the cart
+[INFO ] 2024-12-24 20:58:50.984 [main] StepDef - user click on cart
+[INFO ] 2024-12-24 20:58:51.044 [main] StepDef - cart items are correct
+[INFO ] 2024-12-24 20:58:51.344 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:58:51.344 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:58:52.298 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:58:52.299 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:58:53.047 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:58:53.327 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:58:53.483 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:58:53.502 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:53.826 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-24 20:58:53.839 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:54.160 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:58:54.160 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:58:55.068 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:58:55.069 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:58:55.904 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:58:56.196 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:58:56.354 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:58:56.368 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:56.661 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-24 20:58:56.674 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:58:56.949 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:58:56.950 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:58:57.840 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:58:57.841 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:58:58.626 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:58:58.912 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:58:59.048 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 20:58:59.062 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 20:59:09.243 [main] StepDef - screenshot cpatured
+[INFO ] 2024-12-24 20:59:09.555 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 20:59:10.569 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 20:59:10.570 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 20:59:11.475 [main] StepDef - url openend
+[INFO ] 2024-12-24 20:59:11.745 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 20:59:11.989 [main] StepDef - browser closed
+[INFO ] 2024-12-24 20:59:11.991 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:26:47.257 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:26:47.297 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:26:48.497 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:26:48.787 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:26:48.951 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 21:26:48.970 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:49.156 [main] StepDef - user clicked on dropdown
+[INFO ] 2024-12-24 21:26:49.417 [main] StepDef - user selected the high to low filter option
+[INFO ] 2024-12-24 21:26:49.522 [main] StepDef - user added jacket on cart
+[INFO ] 2024-12-24 21:26:49.685 [main] StepDef - user click on cart
+[WARN ] 2024-12-24 21:26:49.723 [main] StepDef - jacket has been added to cart
+[INFO ] 2024-12-24 21:26:49.995 [main] StepDef - browser closed
+[INFO ] 2024-12-24 21:26:49.997 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:26:50.900 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:26:50.901 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:26:51.808 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:26:52.137 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:26:52.284 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 21:26:52.306 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:52.426 [main] StepDef - user added backpack to the cart
+[INFO ] 2024-12-24 21:26:52.537 [main] StepDef - user added tshirt to the cart
+[INFO ] 2024-12-24 21:26:52.641 [main] StepDef - user added bike light to the cart
+[INFO ] 2024-12-24 21:26:52.745 [main] StepDef - user removed bike light to the cart
+[INFO ] 2024-12-24 21:26:52.911 [main] StepDef - user click on cart
+[INFO ] 2024-12-24 21:26:52.989 [main] StepDef - cart items are correct
+[INFO ] 2024-12-24 21:26:53.308 [main] StepDef - browser closed
+[INFO ] 2024-12-24 21:26:53.308 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:26:54.269 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:26:54.271 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:26:55.071 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:26:55.358 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:26:55.518 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 21:26:55.537 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:55.838 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-24 21:26:55.850 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:56.078 [main] StepDef - browser closed
+[INFO ] 2024-12-24 21:26:56.078 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:26:57.045 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:26:57.046 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:26:58.008 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:26:58.274 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:26:58.473 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 21:26:58.493 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:58.791 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-24 21:26:58.802 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:26:59.039 [main] StepDef - browser closed
+[INFO ] 2024-12-24 21:26:59.040 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:26:59.879 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:26:59.880 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:27:00.765 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:27:00.969 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:27:01.065 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-24 21:27:01.074 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-24 21:27:11.255 [main] StepDef - screenshot cpatured
+[INFO ] 2024-12-24 21:27:11.531 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-24 21:27:12.460 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-24 21:27:12.461 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-24 21:27:13.469 [main] StepDef - url openend
+[INFO ] 2024-12-24 21:27:13.750 [main] StepDef - username and password entered
+[INFO ] 2024-12-24 21:27:14.007 [main] StepDef - browser closed
+[INFO ] 2024-12-24 21:27:14.008 [main] StepDef - tear down 1 executed
+[INFO ] 2024-12-25 19:21:15.479 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 19:21:15.520 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 19:21:17.649 [main] StepDef - url openend
+[INFO ] 2024-12-25 19:21:18.064 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 19:21:18.353 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 19:21:18.624 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 19:21:19.103 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-25 19:21:19.205 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 19:21:19.600 [main] StepDef - browser closed
+[INFO ] 2024-12-25 19:32:36.452 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 19:32:36.495 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 19:32:37.152 [main] StepDef - url openend
+[INFO ] 2024-12-25 19:32:38.716 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 19:32:38.917 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 19:32:38.939 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 19:36:11.510 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 19:36:11.547 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 19:36:12.781 [main] StepDef - url openend
+[INFO ] 2024-12-25 19:36:13.053 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 19:36:13.253 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 19:36:13.273 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 19:36:13.661 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-25 19:36:13.675 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 19:36:13.962 [main] StepDef - browser closed
+[INFO ] 2024-12-25 20:07:20.024 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 20:07:20.074 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 20:07:20.638 [main] StepDef - url openend
+[INFO ] 2024-12-25 20:07:23.346 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 20:07:23.507 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 20:07:23.530 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 20:07:23.875 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-25 20:07:23.888 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 20:07:24.204 [main] StepDef - browser closed
+[INFO ] 2024-12-25 20:07:25.205 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 20:07:25.206 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 20:07:25.783 [main] StepDef - url openend
+[INFO ] 2024-12-25 20:07:26.590 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 20:07:26.723 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 20:07:26.739 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 21:10:42.432 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 21:10:42.482 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 21:10:44.507 [main] StepDef - url openend
+[INFO ] 2024-12-25 21:10:44.929 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 21:10:45.142 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 21:10:45.167 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 21:10:45.608 [main] StepDef - user clicked on logout button
+[WARN ] 2024-12-25 21:10:45.625 [main] StepDef - Test Passed : Login Feature : Page title matched
+[INFO ] 2024-12-25 21:10:46.034 [main] StepDef - browser closed
+[INFO ] 2024-12-25 21:10:47.159 [main] StepDef - setUp_1 executed
+[INFO ] 2024-12-25 21:10:47.160 [main] StepDef - chrome browser launched
+[INFO ] 2024-12-25 21:10:47.943 [main] StepDef - url openend
+[INFO ] 2024-12-25 21:10:48.348 [main] StepDef - username and password entered
+[INFO ] 2024-12-25 21:10:48.508 [main] StepDef - user clicked on login button
+[WARN ] 2024-12-25 21:10:48.532 [main] StepDef - Test Passed : Login Feature : Page title matched
